@@ -17,16 +17,8 @@ operators have a different precedence to C operators). I have also
 found it to be better than a `commercial' program that purports to do
 the same.
 
-In the meanwhile, I have written a full Pascal symbol table handler
-in C. This brings me to the crux of the matter - I would be willing
-and able to complete this program if there was a demand for it, and
-it was worth my while. In other words, if you find this program useful,
-please send me a contribution, of however much you feel it to be
-worth. If your contribution is R15 or more, I will register you as a user,
-and if I get sufficient registered users I will complete the program.
-Registered users will be entitled to the source code of the completed
-program (this source code will *not* be public domain). Registered users
-will also get support if they have queries. I can be contacted at:
+Graham Wheeler (Gram)
+26 June 1990
 
 Department of Computer Science
 University of Cape Town
@@ -36,9 +28,4 @@ Cape Town
 7700
 South Africa
 E-Mail: gram.uctcs@f4.n494.z5.fidonet.org
-
-Enjoy!
-Graham Wheeler (Gram)
-26 June 1990
-
 
